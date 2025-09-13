@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshudougee/devops-pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshudougee/devops-pipelines/issues"
+  },
+  "homepage": "https://github.com/moshudougee/devops-pipelines#readme"
+}
